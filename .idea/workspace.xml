@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9fa033d2-604f-41ca-b109-a751b6cfa8a4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1VXtxvS9uUHQgcOzcQlWMZ1EZNN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Selii/Desktop/Github/console-chess",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Game" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="chess.Game" />
+      <module name="modules" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chess.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fa033d2-604f-41ca-b109-a751b6cfa8a4" name="Default Changelist" comment="" />
+      <created>1577411518241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577411518241</updated>
+      <workItem from="1577411526034" duration="272000" />
+      <workItem from="1577411862531" duration="657000" />
+      <workItem from="1577413117528" duration="11070000" />
+      <workItem from="1577477989124" duration="1374000" />
+      <workItem from="1577580416476" duration="8797000" />
+      <workItem from="1577591776597" duration="16784000" />
+      <workItem from="1577631982115" duration="41704000" />
+      <workItem from="1577720983637" duration="1469000" />
+      <workItem from="1577737253608" duration="38460000" />
+      <workItem from="1577894145982" duration="38180000" />
+      <workItem from="1577980992702" duration="37112000" />
+      <workItem from="1578075119854" duration="73076000" />
+      <workItem from="1578154695817" duration="35435000" />
+      <workItem from="1578230795859" duration="7760000" />
+      <workItem from="1578238834166" duration="7708000" />
+      <workItem from="1578249313843" duration="10377000" />
+      <workItem from="1578351086366" duration="8272000" />
+      <workItem from="1578675105877" duration="7234000" />
+      <workItem from="1578737507043" duration="7129000" />
+      <workItem from="1578758293163" duration="646000" />
+      <workItem from="1578789143491" duration="11616000" />
+      <workItem from="1578805865240" duration="868000" />
+      <workItem from="1578833889458" duration="8646000" />
+      <workItem from="1578849540226" duration="18000" />
+      <workItem from="1578853243890" duration="110000" />
+      <workItem from="1578854052143" duration="46000" />
+      <workItem from="1578869120746" duration="48000" />
+      <workItem from="1582793544774" duration="389000" />
+      <workItem from="1599928848407" duration="16000" />
+      <workItem from="1678813261865" duration="103000" />
+      <workItem from="1678813410338" duration="494000" />
+      <workItem from="1678872832047" duration="368000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
