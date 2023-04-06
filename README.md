@@ -1,13 +1,16 @@
 # Chess Game for Console
 
 <p>
-  A simple console-based chess game that implements OOP principles. 
-  <br>
-  This game was written in Java and was one of my very first programming projects.
+  A simple console-based chess game that implements OOP principles. This game was written in Java and was one of my very first programming projects.
 </p>
 <br>
-<img src="https://user-images.githubusercontent.com/104328359/227798690-41be9f3e-954c-4344-9727-5f58a90f92c6.jpg" align="center" width="250" height="350">
-<br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/104328359/230353156-b523a80b-dbed-4e6d-b55d-d5ba426a7f71.jpg" width="400" height="400">
+  <br>
+  <caption> <i>Snippet form the Game</i> </caption>
+  <br>
+</p>
 
 ## Instructions
 
